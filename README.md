@@ -30,7 +30,7 @@ Users should be able to:
 ![](./images/screenshots/dark-desktop.png)
 ![](./images/screenshots/light-desktop.png)
 ![](./images/screenshots/dark-mobile.png)
-![](./images/screenshots/light-mmobile.png)
+![](./images/screenshots/light-mobile.png)
 
 
 ### Links
