@@ -1,0 +1,15 @@
+@use '../util' as *;
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Lexend+Deca&display=swap');
+
+h1,
+h2,
+h3 {
+	margin-top: 0;
+	line-height: 1.1;
+}
+
+a,
+a:visited,
+a:active {
+	text-decoration: none;
+}

@@ -1,0 +1,22 @@
+@use '../util' as *;
+
+.toggle{
+    padding: rem(30) 0 0 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--main-background);
+    &__button{
+        cursor: pointer;
+        height: rem(30);
+        width: rem(100);
+        background-color: var(--violet-accent);
+        border: rem(2) solid none;
+        border-radius: 10%;
+        color:var(--black-color);
+        &:hover{
+            background-color: var(--violet-accent);
+            opacity: 0.8;
+        }
+    }
+}
